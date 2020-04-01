@@ -7,3 +7,6 @@ class SpaceShip:
 
     def c():
         return 'ccc'
+    
+    def abc():
+        return 'abc'
