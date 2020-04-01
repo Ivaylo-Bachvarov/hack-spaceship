@@ -1,2 +1,9 @@
 class SpaceShip:
-    pass
+    def a():
+        return 123
+    
+    def b():
+        return 321
+
+    def c():
+        return 'ccc'
